@@ -15,8 +15,6 @@ Command here
 ```
 
 
-
-
 ## Website
 The webiste for [FreeXIPA](https://github.com/HttpAnimation/FreeXIPA) can be found [here](https://httpanimation.github.io/FreeXIPA/).
 
