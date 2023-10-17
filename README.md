@@ -25,3 +25,5 @@ This script will take a .xcarchive file and will output a IPA file for IOS with 
 Linux
 Windows under WSL
 MacOS
+IOS -- Working on (Maybe)
+Andriod -- Might be working on (I don't own an andriod so can't really do this)
