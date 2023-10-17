@@ -20,3 +20,8 @@ The webiste for [FreeXIPA](https://github.com/HttpAnimation/FreeXIPA) can be fou
 
 ## How it works
 This script will take a .xcarchive file and will output a IPA file for IOS with out needing to use a dev account from Apple.
+
+## What it will work on
+Linux
+Windows under WSL
+MacOS
